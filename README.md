@@ -21,5 +21,7 @@ square_react_diff.ipynb: </a> Conventional periodic boundary conditions on a Car
 <a href="https://github.com/aquillen/Pattern_Formation_FEM/blob/main/square_swift_hohenberg.ipynb">
 square_swift_hohenberg.ipynb: </a> Spectral method on a Cartesian grid integration of the Swift-Hohenberg equation. 
 
-
+<br>
+<a href="https://github.com/aquillen/Pattern_Formation_FEM/blob/main/fem_loop.ipynb"> fem_loop.ipynb: </a>
+Wave and heat equation on a periodic 1d boundary with skfem
 
