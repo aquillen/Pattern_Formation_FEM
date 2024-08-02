@@ -7,6 +7,7 @@ fem_brus_circle.ipynb </a>: Brusselator reaction diffusion equation on a triangu
 <a href="https://github.com/aquillen/Pattern_Formation_FEM/blob/main/fem_complex_ginzburg_landau.ipynb">
 fem_complex_ginzburg_landau.ipynb: </a> Integrating the Complex Ginzburg Landau equation on a triangular mesh of a circle with the Neumann boundary condition. 
 
+
 <br>
 <a href="https://github.com/aquillen/Pattern_Formation_FEM/blob/main/fem_swift_hohenberg.ipynb">
 fem_swift_hohenberg.ipynb: </a> Integrating the Swift-Hohenberg model on a triangular mesh of a circle with the natural boundary conditions.  We use a Morley element because the Swift-Hohenberg model contains 4-th order derivatives (the biharmonic operator). 
@@ -16,6 +17,8 @@ fem_swift_hohenberg.ipynb: </a> Integrating the Swift-Hohenberg model on a trian
 <br>
 <a href="https://github.com/aquillen/Pattern_Formation_FEM/blob/main/square_react_dif.ipynb">
 square_react_diff.ipynb: </a> Conventional periodic boundary conditions on a Cartesian grid integration of Reaction diffusion equations.
+
+
 
 <br>
 <a href="https://github.com/aquillen/Pattern_Formation_FEM/blob/main/square_swift_hohenberg.ipynb">
