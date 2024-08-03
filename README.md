@@ -28,3 +28,6 @@ square_swift_hohenberg.ipynb: </a> Spectral method on a Cartesian grid integrati
 <a href="https://github.com/aquillen/Pattern_Formation_FEM/blob/main/fem_loop.ipynb"> fem_loop.ipynb: </a>
 Wave and heat equation on a periodic 1d boundary with skfem
 
+<br>
+<a href="https://github.com/aquillen/Pattern_Formation_FEM/blob/main/fem_square_Laplace.ipynb"> fem_square_Laplace.ipynb</a> Solving Laplace's equation on the unit square with a mix of non-zero Neumann and Dirichlet boundary conditions. 
+
