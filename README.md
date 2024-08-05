@@ -31,3 +31,6 @@ Wave and heat equation on a periodic 1d boundary with skfem
 <br>
 <a href="https://github.com/aquillen/Pattern_Formation_FEM/blob/main/fem_square_Laplace.ipynb"> fem_square_Laplace.ipynb</a> Solving Laplace's equation on the unit square with a mix of non-zero Neumann and Dirichlet boundary conditions. 
 
+<br>
+<a href="https://github.com/aquillen/Pattern_Formation_FEM/blob/main/fem_brus_circle_nonzeroneumann.ipynb"> fem_brus_circle_nonzeroneumann.ipynb </a>  Brusselator model with a non-zero Neuman boundary condition. 
+
