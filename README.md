@@ -18,8 +18,6 @@ fem_swift_hohenberg.ipynb: </a> Integrating the Swift-Hohenberg model on a trian
 <a href="https://github.com/aquillen/Pattern_Formation_FEM/blob/main/square_react_dif.ipynb">
 square_react_diff.ipynb: </a> Conventional periodic boundary conditions on a Cartesian grid integration of Reaction diffusion equations.
 
-
-
 <br>
 <a href="https://github.com/aquillen/Pattern_Formation_FEM/blob/main/square_swift_hohenberg.ipynb">
 square_swift_hohenberg.ipynb: </a> Spectral method on a Cartesian grid integration of the Swift-Hohenberg equation. 
@@ -32,5 +30,5 @@ Wave and heat equation on a periodic 1d boundary with skfem
 <a href="https://github.com/aquillen/Pattern_Formation_FEM/blob/main/fem_square_Laplace.ipynb"> fem_square_Laplace.ipynb</a> Solving Laplace's equation on the unit square with a mix of non-zero Neumann and Dirichlet boundary conditions. 
 
 <br>
-<a href="https://github.com/aquillen/Pattern_Formation_FEM/blob/main/fem_brus_circle_nonzeroneumann.ipynb"> fem_brus_circle_nonzeroneumann.ipynb </a>  Brusselator model with a non-zero Neuman boundary condition. 
+<a href="https://github.com/aquillen/Pattern_Formation_FEM/blob/main/fem_brus_circle_nonzeroneumann.ipynb"> fem_brus_circle_nonzeroneumann.ipynb </a>  Brusselator model with a non-zero Neuman boundary condition.  I also include an example with parts of the boundary satisfying Dirichlet and parts of the boundary satisfying Neumann conditions. 
 
