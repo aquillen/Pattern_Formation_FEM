@@ -32,3 +32,7 @@ Wave and heat equation on a periodic 1d boundary with skfem
 <br>
 <a href="https://github.com/aquillen/Pattern_Formation_FEM/blob/main/fem_brus_circle_nonzeroneumann.ipynb"> fem_brus_circle_nonzeroneumann.ipynb </a>  Brusselator model with a non-zero Neuman boundary condition.  I also include an example with parts of the boundary satisfying Dirichlet and parts of the boundary satisfying Neumann conditions. 
 
+<br>
+<a href="https://github.com/aquillen/Pattern_Formation_FEM/blob/main/fem_GS_circle_nonzeroneumann.ipynb"> fem_GS_circle_nonzeroneumann.ipynb </a>
+Gray scott model with a non-zero Neuman boundary condition.  I also include an example with parts of the boundary satisfying Dirichlet and parts of the boundary satisfying Neumann conditions.
+
