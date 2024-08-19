@@ -30,9 +30,12 @@ Wave and heat equation on a periodic 1d boundary with skfem
 <a href="https://github.com/aquillen/Pattern_Formation_FEM/blob/main/fem_square_Laplace.ipynb"> fem_square_Laplace.ipynb</a> Solving Laplace's equation on the unit square with a mix of non-zero Neumann and Dirichlet boundary conditions. 
 
 <br>
-<a href="https://github.com/aquillen/Pattern_Formation_FEM/blob/main/fem_brus_circle_nonzeroneumann.ipynb"> fem_brus_circle_nonzeroneumann.ipynb </a>  Brusselator model with a non-zero Neuman boundary condition.  I also include an example with parts of the boundary satisfying Dirichlet and parts of the boundary satisfying Neumann conditions. 
+<a href="https://github.com/aquillen/Pattern_Formation_FEM/blob/main/fem_brus_circle_nonzeroneumann.ipynb"> fem_brus_circle_nonzeroneumann.ipynb </a>  Brusselator model with a non-zero Neuman boundary condition.  I also include an example with parts of the boundary satisfying Dirichlet and parts of the boundary satisfying Neumann conditions.  This uses skfem and a triangular mesh of the circle. 
 
 <br>
 <a href="https://github.com/aquillen/Pattern_Formation_FEM/blob/main/fem_GS_circle_nonzeroneumann.ipynb"> fem_GS_circle_nonzeroneumann.ipynb </a>
-Gray scott model with a non-zero Neuman boundary condition.  I also include an example with parts of the boundary satisfying Dirichlet and parts of the boundary satisfying Neumann conditions.
+Gray scott model with a non-zero Neuman boundary condition.  I also include an example with parts of the boundary satisfying Dirichlet and parts of the boundary satisfying Neumann conditions.   This uses skfem and a triangular mesh of the circle. 
+<br>
+<a href="https://github.com/aquillen/Pattern_Formation_FEM/blob/main/fem_advec.ipynb"> fem_advec.ipynb </a>
+Solving the advection diffusion equation with skfem on a triangular mesh of a circle. 
 
