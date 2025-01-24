@@ -37,7 +37,7 @@ Wave and heat equation on a periodic 1d boundary with skfem
 Gray scott model with a non-zero Neuman boundary condition.  I also include an example with parts of the boundary satisfying Dirichlet and parts of the boundary satisfying Neumann conditions.   This uses skfem and a triangular mesh of the circle. 
 <br>
 
-<a href="https://github.com/aquillen/Pattern_Formation_FEM/blob/main/Brus_Var_Mesh.ipynb"> Brus_Var_Mesh.ipynb</a>
+<a href="https://github.com/aquillen/Pattern_Formation_FEM/blob/main/Bruss_Var_Mesh.ipynb"> Bruss_Var_Mesh.ipynb</a>
 Solving the Brusselator and Gray-Scott pattern formation model on different shaped 2D domains using pygmsh generated meshes and 
 natural boundary conditions.  This uses pacakges skfem and pygmsh
 
