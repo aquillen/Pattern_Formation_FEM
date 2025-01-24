@@ -41,5 +41,10 @@ Gray scott model with a non-zero Neuman boundary condition.  I also include an e
 Solving the Brusselator and Gray-Scott pattern formation model on different shaped 2D domains using pygmsh generated meshes and 
 natural boundary conditions.  This uses pacakges skfem and pygmsh
 
+
+<a href="https://github.com/aquillen/Pattern_Formation_FEM/blob/main/fem_complex_ginzburg_landau_var.ipynb"> fem_complex_ginzburg_landau_var.ipynb</a>
+Solving the Complex Ginzburg Landau model pattern formation model on different shaped 2D domains using pygmsh generated meshes and 
+different boundary conditions.  This uses pacakges skfem and pygmsh
+
 <br>
 
