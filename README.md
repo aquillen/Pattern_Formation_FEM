@@ -46,5 +46,7 @@ natural boundary conditions.  This uses pacakges skfem and pygmsh
 Solving the Complex Ginzburg Landau model pattern formation model on different shaped 2D domains using pygmsh generated meshes and 
 different boundary conditions.  This uses pacakges skfem and pygmsh
 
+<img title="Ginzburg-Landau" alt="Alt text" src="/GL.png" width="350">
+
 <br>
 
